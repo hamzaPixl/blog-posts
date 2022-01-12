@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Blog posts" src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-flight-mode-notifications-justicon-flat-justicon.png" width="90">
+<img alt="Blog posts" width="90" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-blog-smartphone-technology-itim2101-lineal-color-itim2101.png">
 	<h2 align="center">Blog posts</h2>
 </p>
 
