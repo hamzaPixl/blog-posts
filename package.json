@@ -1,0 +1,22 @@
+{
+  "name": "posts-heroku",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Hamza Mounir <hamza.pixelle@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzaPixl/posts-heroku"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.6.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
